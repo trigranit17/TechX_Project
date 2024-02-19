@@ -1,0 +1,10 @@
+# File sementara
+*.tmp
+*.log
+
+# Folder build
+/build/
+
+# File editor
+.vscode/
+*.swp
